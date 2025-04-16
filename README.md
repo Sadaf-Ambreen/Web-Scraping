@@ -7,6 +7,8 @@ Objectives
 In this lab you will perform the following:
 
 
-Extract information from a given web site
 
-Write the scraped data into a csv file.
+
+1. Extract information from a given web site
+
+2. Write the scraped data into a csv file.
